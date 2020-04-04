@@ -1,0 +1,60 @@
+
+.f{
+    color: black;
+    alignment: center;
+
+}
+#form{
+    color:black;
+    text-align:  center;
+    padding: 4px;
+    margin: 5px;
+
+}
+.img{
+    height: 150px;
+    width: 150px;
+}
+#but{
+    background: blue;
+    color: aquamarine;
+    padding:5px;
+    width: 200px;
+    height: 35px;
+}
+
+#item a{
+    display: block;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px 36px;
+    margin-top: 2px;
+    position: absolute;
+    z-index: 1;
+}
+
+ table {
+     font-family: arial, sans-serif;
+     border-collapse: collapse;
+     width: 100%;
+     color: white;
+ }
+
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+
+}
+
+tr:nth-child {
+    background-color: #dddddd;
+}
+
+div.a {
+    text-align: center;
+    color: white;
+}
+
+
